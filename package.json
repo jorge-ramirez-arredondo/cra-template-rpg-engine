@@ -1,14 +1,14 @@
 {
-  "name": "cra-template-web-rpg-engine",
+  "name": "cra-template-rpg-engine",
   "version": "0.1.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "web-rpg-engine"
+    "rpg-engine"
   ],
-  "description": "A Create React App template for a web rpg engine.",
-  "repository": "git://github.com/jorge-ramirez-arredondo/cra-template-web-rpg-engine",
+  "description": "A Create React App template for an rpg engine.",
+  "repository": "git://github.com/jorge-ramirez-arredondo/cra-template-rpg-engine",
   "license": "MIT",
   "engines": {
     "node": ">=10"
