@@ -1,20 +1,18 @@
 {
   "package": {
+    "scripts": {
+      "start": "craco start",
+      "build": "craco build",
+      "test": "craco test"
+    },
     "dependencies": {
       "@craco/craco": "^5.6.4",
       "@jorge-ramirez-arredondo/gds-instructions-interpreter": "^1.0.0",
-      "@jorge-ramirez-arredondo/react-rpg-engine": "^1.0.0",
+      "@jorge-ramirez-arredondo/gds-loader": "^1.0.4",
+      "@jorge-ramirez-arredondo/react-rpg-engine": "^0.1.0",
       "@testing-library/jest-dom": "^5.5.0",
       "@testing-library/react": "^10.0.4",
       "@testing-library/user-event": "^10.1.0"
     }
-  },
-  "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test"
-  },
-  "devDependencies": {
-    "@jorge-ramirez-arredondo/gds-loader": "^1.0.4"
   }
 }
